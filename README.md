@@ -1,6 +1,6 @@
 //The error like this when I use 'npm start':
 
-#liudong@ubt:~/Public/proj/Homepage$ npm start
+liudong@ubt:~/Public/proj/Homepage$ npm start
 
 > homepage@1.0.0 start /home/liudong/Public/proj/Homepage
 > webpack -d
